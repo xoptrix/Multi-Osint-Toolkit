@@ -13,3 +13,6 @@ pkg install git
 pkg install python3
 
 usage tools
+https://github.com/xoptrix/Multi-Osint-Toolkit.git
+cd Multi-Osint-Toolkit
+python3 xoptrix.py 
